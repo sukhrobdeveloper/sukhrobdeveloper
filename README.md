@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhrobdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sukhrobdeveloper" /> </p>
 
-- 🔭 I’m currently working on [E-Library](https://github.com/sukhrobdeveloper/library-management-system)
+- 🔭 I’m currently working on [Fast-Food_CRM](https://github.com/sukhrobdeveloper/fast-food-crm-application), [Blogging Application](https://github.com/sukhrobdeveloper/blog-application)
 
 - 🌱 I’m currently learning **React.js and Ruby**
 
