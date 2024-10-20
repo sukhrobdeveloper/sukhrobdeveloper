@@ -1,4 +1,4 @@
-![Header]([github-terminal-banner.png](https://github.com/sukhrobdeveloper/github-profile-banners/blob/main/github-terminal-banner.png?raw=true))
+![Header](https://github.com/sukhrobdeveloper/github-profile-banners/blob/main/github-terminal-banner.png?raw=true)
 <h1 align="center">Hi there 👋, I'm Sukhrob</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Uzbekistan</h3>
 
