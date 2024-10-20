@@ -13,40 +13,21 @@
 
 ---
 
-### 🔭 Current Projects
-- 🌟 [Fast-Food CRM Application](https://github.com/sukhrobdeveloper/fast-food-crm-application)
-- ✍️ [Blogging Application](https://github.com/sukhrobdeveloper/blog-application)
+<div align="center">
 
----
+  ### 🔭 Current Projects                               |                               🌱 Currently Learning
+  - [Fast-Food CRM Application](https://github.com/sukhrobdeveloper/fast-food-crm-application)  |  - React.js
+  - [Blogging Application](https://github.com/sukhrobdeveloper/blog-application)                 |  - Ruby
 
-### 🌱 Currently Learning
-- **React.js**
-- **Ruby**
+</div>
 
----
+<div align="center">
 
-### 💬 Ask Me About
-- Java, Spring, Django, Data Science
+  ### 💬 Ask Me About                                  |                               📫 Reach Me At
+  - Java, Spring, Django                               |  - [sukhrobtokhirov006@gmail.com](mailto:sukhrobtokhirov006@gmail.com)
+  - Data Science                                       |  - [LinkedIn](https://linkedin.com/in/sukhrob-tokhirov-b19525319)
 
----
-
-### 📫 Reach Me At
-- **sukhrobtokhirov006@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/sukhrob-tokhirov-b19525319" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:sukhrobtokhirov006@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="sukhrobtokhirov006@gmail.com" height="30" width="30" />
-  </a>
-  <a href="https://github.com/sukhrobdeveloper">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -70,8 +51,8 @@
 
 ### 🛠️ Skills
 
-- **Java & Frameworks**: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring AOP, JDBC, JSP, REST API, Thymeleaf, Jakarta EE
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Java & Frameworks**: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring AOP, JDBC, JSP, REST API, Thymeleaf, Jakarta EE, Concurrency and Multithreading, Java Memory Management, Unit Testing, Design Patterns, Serialization and Deserialization, Java Logging, Streams and Collections Improvements, Java Beans, JVM Profiling and Tuning
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Database Optimization
 - **Python & Frameworks**: Django, Flask, Aiogram
 - **DevOps**: Docker, Linux, Nginx, Kubernetes, Ngrok, Bash Scripting
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Statistics
