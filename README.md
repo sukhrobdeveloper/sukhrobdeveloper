@@ -14,19 +14,45 @@
 ---
 
 <div align="center">
-
-  ### 🔭 Current Projects                               |                               🌱 Currently Learning
-  - [Fast-Food CRM Application](https://github.com/sukhrobdeveloper/fast-food-crm-application)  |  - React.js
-  - [Blogging Application](https://github.com/sukhrobdeveloper/blog-application)                 |  - Ruby
-
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>🔭 Current Projects</h3>
+        <ul>
+          <li><a href="https://github.com/sukhrobdeveloper/fast-food-crm-application">Fast-Food CRM Application</a></li>
+          <li><a href="https://github.com/sukhrobdeveloper/blog-application">Blogging Application</a></li>
+        </ul>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h3>🌱 Currently Learning</h3>
+        <ul>
+          <li>React.js</li>
+          <li>Ruby</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-
-  ### 💬 Ask Me About                                  |                               📫 Reach Me At
-  - Java, Spring, Django                               |  - [sukhrobtokhirov006@gmail.com](mailto:sukhrobtokhirov006@gmail.com)
-  - Data Science                                       |  - [LinkedIn](https://linkedin.com/in/sukhrob-tokhirov-b19525319)
-
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>💬 Ask Me About</h3>
+        <ul>
+          <li>Java, Spring, Django</li>
+          <li>Data Science</li>
+        </ul>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h3>📫 Reach Me At</h3>
+        <ul>
+          <li><a href="mailto:sukhrobtokhirov006@gmail.com">sukhrobtokhirov006@gmail.com</a></li>
+          <li><a href="https://linkedin.com/in/sukhrob-tokhirov-b19525319">LinkedIn</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
