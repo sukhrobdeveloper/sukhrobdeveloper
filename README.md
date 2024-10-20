@@ -18,33 +18,33 @@
     <tr>
       <td align="center" style="border: 2px solid #ccc; width: 200px; height: 150px; padding: 20px;">
         <h3>🔭 Current Projects</h3>
-        <ul>
-          <li><a href="https://github.com/sukhrobdeveloper/fast-food-crm-application">Fast-Food CRM Application</a></li>
-          <li><a href="https://github.com/sukhrobdeveloper/blog-application">Blogging Application</a></li>
-        </ul>
+        <div style="text-align: left; padding-left: 20px;">
+          <p><a href="https://github.com/sukhrobdeveloper/fast-food-crm-application">Fast-Food CRM Application</a></p>
+          <p><a href="https://github.com/sukhrobdeveloper/blog-application">Blogging Application</a></p>
+        </div>
       </td>
       <td align="center" style="border: 2px solid #ccc; width: 200px; height: 150px; padding: 20px;">
         <h3>🌱 Currently Learning</h3>
-        <ul>
-          <li>React.js</li>
-          <li>Ruby</li>
-        </ul>
+        <div style="text-align: left; padding-left: 20px;">
+          <p>React.js</p>
+          <p>Ruby</p>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="center" style="border: 2px solid #ccc; width: 200px; height: 150px; padding: 20px;">
         <h3>💬 Ask Me About</h3>
-        <ul>
-          <li>Java, Spring, Django</li>
-          <li>Data Science</li>
-        </ul>
+        <div style="text-align: left; padding-left: 20px;">
+          <p>Java, Spring, Django</p>
+          <p>Data Science</p>
+        </div>
       </td>
       <td align="center" style="border: 2px solid #ccc; width: 200px; height: 150px; padding: 20px;">
         <h3>📫 Reach Me At</h3>
-        <ul>
-          <li><a href="mailto:sukhrobtokhirov006@gmail.com">sukhrobtokhirov006@gmail.com</a></li>
-          <li><a href="https://linkedin.com/in/sukhrob-tokhirov-b19525319">LinkedIn</a></li>
-        </ul>
+        <div style="text-align: left; padding-left: 20px;">
+          <p><a href="mailto:sukhrobtokhirov006@gmail.com">Gmail</a></p>
+          <p><a href="https://linkedin.com/in/sukhrob-tokhirov-b19525319">LinkedIn</a></p>
+        </div>
       </td>
     </tr>
   </table>
