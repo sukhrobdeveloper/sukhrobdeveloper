@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/followers/sukhrobdeveloper?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
----
-
 <div align="center">
   <table>
     <tr>
