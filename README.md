@@ -1,7 +1,5 @@
-![Header](https://github.com/sukhrobdeveloper/github-profile-banners/blob/main/new-banner.png?raw=true)
 <h1 align="center">Hi there 👋, I'm Sukhrob</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Uzbekistan</h3>
-
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
