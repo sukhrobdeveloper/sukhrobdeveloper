@@ -2,12 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Sukhrob</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Uzbekistan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukhrobdeveloper&label=Profile%20views&color=blue&style=flat-square" alt="sukhrobdeveloper" /> 
-  <img src="https://img.shields.io/github/followers/sukhrobdeveloper?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
-
----
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
