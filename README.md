@@ -31,15 +31,4 @@
 - **Web Development**: HTML, CSS, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS, PHP, Laravel, Symfony, Laminas Mezzio
 - **Other Tools**: Git, GitHub, Postman, jUnit, OAuth, RabbitMQ
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhrobdeveloper&show_icons=true&theme=radical" alt="Sukhrob's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukhrobdeveloper&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhrobdeveloper&layout=compact&theme=radical" alt="Top Languages" />
-</p>
