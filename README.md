@@ -24,7 +24,7 @@
 - **Java & Frameworks**: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring AOP, JDBC, JSP, REST API, Thymeleaf, Jakarta EE, Concurrency and Multithreading, Java Memory Management, Unit Testing, Design Patterns, Serialization and Deserialization, Java Logging, Streams and Collections Improvements, Java Beans, JVM Profiling and Tuning
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Database Optimization
 - **Python & Frameworks**: Django, Flask, Aiogram
-- **DevOps**: Docker, Linux, Nginx, Kubernetes, Ngrok, Bash Scripting
+- **DevOps**: Docker, Linux, Nginx, Kubernetes, Minikube, Ngrok, Bash Scripting
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Statistics
 - **Web Development**: HTML, CSS, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS, PHP, Laravel, Symfony, Laminas Mezzio
 - **Other Tools**: Git, GitHub, Postman, jUnit, OAuth, RabbitMQ
