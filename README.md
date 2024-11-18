@@ -26,7 +26,7 @@
 - **Python & Frameworks**: Django, Flask, Aiogram
 - **DevOps**: Docker, Linux, Nginx, Kubernetes, Minikube, Ngrok, Bash Scripting
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Statistics
-- **Web Development**: HTML, CSS, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS, PHP, Laravel, Symfony, Laminas Mezzio
+- **Web Development**: HTML, CSS, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS, PHP, Laravel, Symfony, Laminas Mezzio, Twig, Blade
 - **Other Tools**: Git, GitHub, Postman, jUnit, OAuth, RabbitMQ
 
 
