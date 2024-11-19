@@ -21,7 +21,7 @@
 
 ### 🛠️ Skills
 
-- **Java & Frameworks**: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring AOP, JDBC, JSP, REST API, Thymeleaf, Jakarta EE, Concurrency and Multithreading, Java Memory Management, Unit Testing, Design Patterns, Serialization and Deserialization, Java Logging, Streams and Collections Improvements, Java Beans, JVM Profiling and Tuning
+- **Java & Frameworks**: Java SE, Java EE, Spring Framework, Hibernate, Jersey
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Database Optimization
 - **Python & Frameworks**: Django, Flask, Aiogram
 - **DevOps**: Docker, Linux, Nginx, Kubernetes, Minikube, Ngrok, Bash Scripting
